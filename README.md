@@ -1,6 +1,5 @@
 ### Eu sou Lucas 👋
 <li>Estudante de Sistemas de Informação 👨🏻‍💻</li> 
-<li>Prentendo atuar no desenvolvimento Front-end 🎨 </li>
 <li>Dedicado a aprender sempre mais 😁  </li>
 <li>Linguagem de dominância: Javascript 🔴</li>
 
